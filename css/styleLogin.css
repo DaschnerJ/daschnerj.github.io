@@ -4,7 +4,7 @@ body {
   height: 100%;
   position: absolute;
   font-family: Raleway;
-  background: url(https://wallup.net/wp-content/uploads/2015/12/61017-Nelliel_Tu_Odelschwanck-anime-anime_girls-Bleach-Espada.jpg) no-repeat fixed;
+  background: url(https://media.giphy.com/media/I30Ne3JQMxIti/giphy.gif) no-repeat fixed;
   background-size: cover;
   background-position: 50%;
   -webkit-font-smoothing: antialiased;
@@ -16,7 +16,7 @@ body .menu {
   background: inherit;
 }
 body .menu .mainmenu {
-  background: url(https://wallup.net/wp-content/uploads/2015/12/61017-Nelliel_Tu_Odelschwanck-anime-anime_girls-Bleach-Espada.jpg) no-repeat fixed;
+  background: url(https://media.giphy.com/media/I30Ne3JQMxIti/giphy.gif) no-repeat fixed;
   background-size: cover;
   background-position: 50%;
 }
